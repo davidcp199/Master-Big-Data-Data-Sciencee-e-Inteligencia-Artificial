@@ -86,4 +86,33 @@ def obtener_valor_simbolo():
 
     return -1  # No se encontró solución
 
-print(obtener_valor_simbolo())
+# print(obtener_valor_simbolo())
+
+# Conjuntos y diccionarios
+
+el = {"correr", "saltar", "nadar", "caminar"}
+ella = {"boxear", "nadar", "caminar", "saltar", "anda en bicicleta"}
+
+# print(el & ella) #comunes
+# print(el ^ ella) #unicas
+# print(el | ella)
+# print(ella - el)
+# print(el - ella)
+
+# MCD con conjuntos
+
+def MCD(a, b):
+    conj_a = {i for i in range(1, a + 1) if a % i == 0}
+    conj_b = {i for i in range(1, b + 1) if b % i == 0}
+    return max(conj_a & conj_b)
+# print(MCD(5,10))
+
+def texto_to_dicc(texto: str):
+    lista_texto = texto.split("#")
+
+    return {"telefono": lista_texto[0], "correo": lista_texto[1],\
+               "direccion": lista_texto[2]}
+
+
+print(texto_to_dicc("639232983 # blaky@ucm.es # calle BB 45 8-3-3 Madrid"))
+
