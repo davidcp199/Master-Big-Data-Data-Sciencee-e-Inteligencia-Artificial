@@ -322,3 +322,109 @@ def simplificar_fraccion(numerador, denominador):
 
     mcd = MCD(numerador, denominador)
     return numerador // mcd, denominador // mcd
+
+# Exccepciones 3
+
+"""
+Los valores missing se tratan con frecuencia mediante el uso de excepciones.
+Supongamos que las calificaciones de alguien son las siguientes:
+notas = “2,,5,7,12,None,-3”
+(La segunda nota es inexistente; otra es None; otra, negativa o podría ser
+mayor que 10.)
+Tras separar las notas, deseamos convertirlas con las función float. Pero
+cuando falle esta conversión (por tratarse de un dato inexistente o por tener
+el valor None u otro string no convertible en un real), deseamos imputar un
+cero. Cuando sea negativa, también un cero; y cuando sea mayor que 10, lo
+dejaremos en 10."""
+
+def tratar_notas(notas):
+    def tratar_nota(nota):
+        try:
+            nota = float(nota)
+            if nota < 0:
+                raise ValueError
+            elif nota > 10:
+                return 10
+        except:
+            return 0
+        return nota
+
+
+    notas = notas.split(",")
+    notas = [tratar_nota(nota) for nota in notas]
+    return sum(notas)/len(notas)
+
+class complejo():
+    def __init__(self, modo = "binomico", x_t = 0, y_t = 0):
+        self.modo = modo
+        self.x = x_t
+        self.y = y_t
+        self.r = math.sqrt(self.x**2 + self.y**2)
+
+        if self.x != 0:
+            self.titus = math.atan(self.y/self.x) 
+        elif self.y > 0:
+            self.titus = math.pi / 2
+        elif self.y < 0:
+            self.titus = math.pi / 2 * -1
+        else:
+            self.titus = None
+
+
+    
+    def __str__(self):
+        if self.modo == "binomico":
+            return ("{} + {}i".format(self.x, self.y))
+        elif self.modo == "polar":
+            return ("{} * e^({}i)".format(self.r, self.titus))
+    
+    def __add__(self, other): # Suma +
+        return complejo("binomico", self.x + other.x, self.y + other.y)
+
+    def __sub__(self, other):# Resta -
+        return complejo("binomico", self.x - other.x, self.y - other.y)
+
+    def __mul__(self, other):
+        return complejo("polar", self.r * other.r, self.titus + other.titus)
+    def __truediv__(self, other):
+        return complejo("polar", self.r / other.r, self.titus - other.titus)
+    def __pow__(self, other):
+        return complejo("polar", self.r ** other.r, self.titus * other.titus)
+    def __abs__(self):
+        return self.r
+    def __neg__(self): # Negativo unario -x
+        return complejo("binomico", -self.x, -self.y)
+    def __eq__(self, other): # Igualdad ==
+        return self.x == other.x and self.y == other.y
+    def __ne__(self, other): # Diferente !=
+        return not self == other
+    def __lt__(self, other): # Menor que <
+        return self.r < other.r
+    def __le__(self, other): # Menor o igual que <=
+        return self.r <= other.r
+    def __gt__(self, other): # Mayor que >
+        return self.r > other.r
+    def __ge__(self, other): # Mayor o igual que >=
+        return self.r >= other.r
+
+# punto = complejo("polar", 2, 3)
+# print(punto)
+
+class Ficha_Persona():
+    def __init__(self, nom = "", f_nacimiento = "00/00/000", edad = 0, estatura = 0, aficciones = [], email = "@"):
+        self.nombre = nom
+        self.fecha_nacimiento = f_nacimiento
+        self.edad = edad
+        self.estatura = estatura
+        self.aficiones = aficciones
+        self.email = email
+
+        datos = [self.nombre, self.fecha_nacimiento, self.edad, self.estatura, self.aficiones]
+
+        self.diccionario = {self.email : datos}
+
+    def __str__(self):
+        return str(self.diccionario)
+
+persona = Ficha_Persona()
+print(persona)
