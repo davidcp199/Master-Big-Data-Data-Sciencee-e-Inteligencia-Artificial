@@ -290,4 +290,35 @@ def leer_archivo_diccionario(archivo):
         print(p2)
 
 
-leer_archivo_diccionario("texto.txt")
+# leer_archivo_diccionario("texto.txt")
+
+# Objetos Mutables e Inmutables
+"""
+Si quisieramos modificar un entero (inmutable) dentro de una función,
+no podríamos hacerlo directamente, ya que los argumentos de las funciones en Python son pasados por valor.
+Sin embargo, si el entero estuviera dentro de una lista (mutable), podríamos modificarlo sin problemas.
+
+Se podría pasar tambien dentro de un objeto mutable, como una lista, y modificarlo dentro de la función.
+"""
+def modificar_entero(numero)->int:
+    numero += 1
+    return numero
+
+x = 10
+x = modificar_entero(x)
+# print(x) # Salida: 11
+
+"""
+Una fracción se puede simplificar calculando el máximo común divisor de sus
+términos… Diseña una función que da la fracción simplificada y otro que
+simplifica “in place” una fracción dada.
+"""
+def simplificar_fraccion(numerador, denominador):
+    def MCD(a, b):
+        while b != 0: 
+            a, b = b, a % b
+        return a
+
+
+    mcd = MCD(numerador, denominador)
+    return numerador // mcd, denominador // mcd
