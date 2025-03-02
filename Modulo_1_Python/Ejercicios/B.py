@@ -427,4 +427,139 @@ class Ficha_Persona():
         return str(self.diccionario)
 
 persona = Ficha_Persona()
-print(persona)
+# print(persona)
+
+"""
+PF Y ORDEN SUPERIOR
+"""
+
+"""
+1. - La lista con los cuadrados de los 100 primeros números
+- Ídem, pero únicamente de los números pares.
+"""
+
+def es_primo(numero):
+    if numero < 2:
+        return False
+    for i in range(2, numero):
+        if numero % i == 0:
+            return False
+    return True
+
+lista_primos = filter(es_primo, range(100))
+
+lista_primos_cuadrado = list(map(lambda x: x**2, lista_primos))
+
+# print(list(lista_primos_cuadrado))
+
+"""
+2. (*) Diseña funciones para los siguientes cálculos:
+- La derivada de una función (derivable) en un punto
+- El método de bipartición para calcular el cero de una función en un
+intervalo supuesto que...
+- Newton-Raphson, partiendo de un punto y supuesto que...
+b- Dado el término general de una sucesión 𝑎􀯡 de reales (que en realidad es
+una función 𝑎 ∶ 𝑁 → 𝑅), define la función que da la lista de términos 𝑎􀯜
+para 𝑖 ∈ {𝑎􀬵, … , 𝑎􀯡}, aplicando la función a cada término de la lista [1, …,
+n] mediante la función map.
+- Expresa la función “sumatorio”, que suma los términos de una sucesión
+entre dos límites dados, esto es, usando lambda expresiones.
+
+"""
+
+def derivada_punto(F, a):
+    def derivada(F):
+        h = 1e-5
+        return lambda x: (F(x + h) - F(x))/h
+        
+    return derivada(F)(a)
+
+# print(derivada_punto(lambda x: x**2, 5))
+#b
+def a(i):
+    return i**2
+
+lista = [0, 1, 2, 3, 4, 5, 6]
+
+# print(list(map(a, lista)))
+
+# Sumatorio
+
+from functools import reduce
+def sumatorio(a, b):
+    def suma(x, y):
+        return x+y
+
+    return reduce(suma, range(a, b + 1))
+    
+# print(sumatorio(1, 3))
+
+# fun = lambda a, b: lambda c : (a(b(c)), b(a(c)))
+"""
+La funcion fun toma dos funciones a y b, y devuelve una nueva función que toma un argumento c 
+y devuelve una tupla con el resultado de aplicar a a b(c) y b a c.
+
+"""
+
+# La función máximo se puede definir mediante un reduce:
+def maximo(lista):
+    def mx(a, b):
+        return a if a>= b else b
+    #return reduce(mx, lista)
+
+    return reduce(lambda x, y: x if x >= y else y, lista)
+
+# print(maximo([1, 2, 3, 600, 4]))
+
+"""6. Dada una lista de nombres de persona, tenemos una función que selecciona
+los que tienen una longitud menor o igual a una cantidad, dada."""
+
+nombres = ["pedro", "juan", "maria", "Ana", "luis", "carlos", "josefina", "luisa", "luisito", "luisito2"]
+
+sort_names = lambda nombres, longitud : list(filter(lambda nombre: True if len(nombre) <= longitud else False, nombres))
+
+# print(list(sort_names(nombres, 3)))
+
+"""7. Define la función select_multiplos(n, k), que genera los números desde 1
+hasta n que son múltiplos de k. Hazlo usando listas por comprensión."""
+
+def select_multiplos(n, k):
+    return [i for i in range(1, n + 1) if i%k == 0]
+
+# print(select_multiplos(10, 2))
+
+# Imprimir primos
+# print([i for i in range(2, 100) if es_primo(i)])
+
+"""(*) Genera una lista con 25 pares de enteros aleatorios, entre 1 y 10: son las
+coordenadas de 25 puntos del plano discreto. Almacenamos esta lista en una
+variable lista_inicial, y en otra lista_de_trabajo, con la que vamos a trabajar.
+Ahora, define una función que reciba dos puntos del plano discreto (dos
+pares de enteros) y calcule la distancia euclídea entre dichos puntos.
+Define ahora una función de orden superior tal que, dado un punto 𝑃, dé la
+función 𝑑𝑖𝑠𝑡􀯉, que calcula la distancia (a 𝑃) de un punto: 𝑑𝑖𝑠𝑡􀯉(𝑄) = ‖􀴤𝑃􀴤􀴤𝑄􀴤‖.
+Define una función que, dado un punto y una lista de puntos, devuelve la
+lista de puntos dada, pero ordenada de menor a mayor distancia a 𝑃."""
+
+lista_inicial = [((random.randint(1, 10), random.randint(1, 10))) for _ in range(26)]
+
+def distancia_euclidea(punto_a, punto_b):
+    return math.sqrt((punto_a[0] - punto_b[0])**2 + (punto_a[1] - punto_b[1])**2)
+
+lista_trabajo = lista_inicial.copy()
+
+def distancia_punto(P):
+    return lambda Q: math.sqrt((P[0] - Q[0])**2 + (P[1] - Q[1])**2)
+
+def puntos_ordenados(Punto, ListaPuntos):
+    return list(sorted(ListaPuntos, key = distancia_punto(Punto)))
+
+def puntos_ordenados_diccionario(Punto, ListaPuntos):
+    d = {punto: distancia_punto(Punto)(punto) for punto in ListaPuntos}
+
+
+    return d
+
+lista = [(0,0), (1,0), (1, 1), (-1, 0)]
+
+# print(puntos_ordenados_diccionario((0,0), lista))
