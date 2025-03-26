@@ -62,7 +62,7 @@ Rush Hour 3|2007|English|USA|140000000
 A Christmas Carol|2009|English|USA|200000000
 Jupiter Ascending|2015|English|USA|176000000
 The Legend of Tarzan|2016|English|USA|180000000
-"The Chronicles of Narnia: The Lion|180000000|1463|English|-1
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005|English|USA|180000000
 X-Men: Apocalypse|2016|English|USA|178000000
 The Dark Knight|2008|English|USA|185000000
 Up|2009|English|USA|175000000
@@ -233,7 +233,7 @@ Knight and Day|2010|English|USA|117000000
 Oblivion|2013|English|USA|120000000
 Star Wars: Episode III - Revenge of the Sith|2005|English|USA|113000000
 Star Wars: Episode II - Attack of the Clones|2002|English|USA|115000000
-"Monsters|115000000|593|English|-1
+Monsters, Inc.|2001|English|USA|115000000
 The Wolverine|2013|English|USA|120000000
 Star Wars: Episode I - The Phantom Menace|1999|English|USA|115000000
 The Croods|2013|English|USA|135000000
@@ -269,12 +269,12 @@ The Lord of the Rings: The Fellowship of the Ring|2001|English|New Zealand|93000
 Around the World in 80 Days|2004|English|USA|110000000
 Ali|2001|English|USA|107000000
 The Cat in the Hat|2003|English|USA|109000000
-"I|120000000|789|English|-1
+I, Robot|2004|English|USA|120000000
 Kingdom of Heaven|2005|English|USA|130000000
 Stuart Little|1999|English|Germany|133000000
 The Princess and the Frog|2009|English|USA|105000000
 The Martian|2015|English|USA|108000000
-"10|-1|||-1
+10,000 B.C.|-1|||-1
 The Island|2005|English|USA|126000000
 Town & Country|2001|English|New Line|90000000
 Gone in Sixty Seconds|2000|English|USA|90000000
@@ -361,7 +361,7 @@ Tropic Thunder|2008|English|USA|92000000
 The Girl with the Dragon Tattoo|2011|English|USA|90000000
 Die Hard with a Vengeance|1995|English|USA|90000000
 Sherlock Holmes|2009|English|USA|90000000
-Ben-Hur|2016|English|USA|-1
+Ben-Hur|2016|English|USA|100000000
 Atlantis: The Lost Empire|2001|English|USA|120000000
 Alvin and the Chipmunks: The Road Chip|2015|English|USA|90000000
 Valkyrie|2008|English|USA|75000000
@@ -678,7 +678,7 @@ We Are Marshall|2006|English|USA|65000000
 The Missing|-1|English|UK|-1
 Hudson Hawk|1991|English|USA|70000000
 Lucky Numbers|2000|English|France|65000000
-"I|65000000|194|English|-1
+I, Frankenstein|2014|English|Australia|65000000
 Oliver Twist|2005|English|UK|50000000
 Elektra|2005|English|Canada|43000000
 Sin City: A Dame to Kill For|2014|English|USA|65000000
@@ -805,7 +805,7 @@ Deadpool|2016|English|USA|58000000
 Holy Man|1998|English|USA|60000000
 American Sniper|2014|English|USA|58800000
 Goosebumps|2015|English|USA|58000000
-"Sabrina|3000000|94|English|-1
+Sabrina, the Teenage Witch|-1|English|USA|3000000
 Just Like Heaven|2005|English|USA|58000000
 The Flintstones in Viva Rock Vegas|2000|English|USA|60000000
 Rambo III|1988|English|USA|63000000
@@ -886,7 +886,7 @@ Seven Pounds|2008|English|USA|55000000
 Bullet to the Head|2012|English|USA|55000000
 The Godfather: Part III|1990|English|USA|54000000
 Elizabethtown|2005|English|USA|57000000
-"You|54000000|195|English|-1
+You, Me and Dupree|2006|English|USA|54000000
 Superman II|1980|English|USA|54000000
 Gigli|2003|English|USA|54000000
 All the King's Men|2006|English|Germany|55000000
@@ -912,7 +912,7 @@ Man on the Moon|1999|English|UK|52000000
 Casino|1995|English|USA|52000000
 From Paris with Love|2010|English|France|52000000
 Bulletproof Monk|2003|English|USA|52000000
-"Me|51000000|481|English|-1
+Me, Myself & Irene|2000|English|USA|51000000
 Barnyard|2006|English|Germany|51000000
 Deck the Halls|2006|English|USA|-1
 The Twilight Saga: New Moon|2009|English|USA|50000000
@@ -942,7 +942,7 @@ We Bought a Zoo|2011|English|USA|-1
 Knowing|2009|English|USA|50000000
 Failure to Launch|2006|English|USA|50000000
 The Ring Two|2005|English|USA|-1
-"Crazy|-1|http://www.imdb.com/title/tt1570728/?ref_=fn_tt_tt_1|292|-1
+Crazy, Stupid, Love.|2011|English|USA|50000000
 Garfield|2004|English|USA|35000000
 Christmas with the Kranks|2004|English|USA|60000000
 Moneyball|2011|English|USA|50000000
@@ -1088,7 +1088,7 @@ A Bug's Life|1998|English|USA|120000000
 From Hell|2001|English|USA|35000000
 The Specialist|1994|English|Peru|45000000
 Tin Cup|1996|English|USA|45000000
-"Yours|2500000|61|English|-1
+Yours, Mine and Ours|1968|English|USA|2500000
 Kicking & Screaming|2005|English|USA|45000000
 The Hitchhiker's Guide to the Galaxy|2005|English|USA|50000000
 Fat Albert|2004|English|USA|26000000
@@ -1203,7 +1203,7 @@ The Last of the Mohicans|1992|English|USA|40000000
 Ray|2004|English|USA|40000000
 Sin City|2005|English|USA|40000000
 Vantage Point|2008|English|USA|40000000
-"I Love You|40000000|215|English|-1
+I Love You, Man|2009|English|USA|40000000
 Shallow Hal|2001|English|USA|40000000
 JFK|1991|English|France|40000000
 Big Momma's House 2|2006|English|USA|40000000
@@ -1485,7 +1485,7 @@ Warriors of Virtue|1997|English|USA|35000000
 A Good Year|2006|English|USA|35000000
 Luther|-1|English|UK|-1
 Radio Flyer|1992|English|USA|35000000
-"Blood In|35000000|129|English|-1
+Blood In, Blood Out|1993|English|USA|35000000
 Smilla's Sense of Snow|1997|English|Denmark|35000000
 Femme Fatale|2002|English|France|35000000
 Lion of the Desert|1980|English|Libya|35000000
@@ -1534,7 +1534,7 @@ Stigmata|1999|English|USA|29000000
 Men of Honor|2000|English|USA|32000000
 Takers|2010|English|USA|20000000
 The Big Wedding|2013|English|USA|35000000
-"Big Mommas: Like Father|32000000|47|English|-1
+Big Mommas: Like Father, Like Son|2011|English|USA|32000000
 Source Code|2011|English|USA|32000000
 Alive|1993|English|USA|32000000
 The Number 23|2007|English|USA|32000000
@@ -1757,7 +1757,7 @@ No Reservations|2007|English|USA|28000000
 Kick-Ass|2010|English|UK|30000000
 30 Minutes or Less|2011|English|Germany|28000000
 Dracula 2000|2000|English|USA|28000000
-"Alexander and the Terrible|-1|bad day|based on book|birthday|job interview|long title|http://www.imdb.com/title/tt1698641/?ref_=fn_tt_tt_1|-1
+Alexander and the Terrible, Horrible, No Good, Very Bad Day|2014|English|USA|28000000
 Pride & Prejudice|2005|English|France|28000000
 Blade Runner|1982|English|USA|28000000
 Rob Roy|1995|English|USA|28000000
@@ -1766,7 +1766,7 @@ We Own the Night|2007|English|USA|21000000
 Lost Souls|2000|English|USA|28000000
 Winged Migration|2001|English|France|160000000
 Just My Luck|2006|English|USA|28000000
-"Mystery|28000000|123|English|-1
+Mystery, Alaska|1999|English|Canada|28000000
 The Spy Next Door|2010|English|USA|28000000
 A Simple Wish|1997|English|USA|28000000
 Ghosts of Mars|2001|English|USA|28000000
@@ -1780,7 +1780,7 @@ Brick Mansions|2014|English|France|28000000
 Octopussy|1983|English|UK|27500000
 Knocked Up|2007|English|USA|30000000
 My Sister's Keeper|2009|English|USA|30000000
-"Welcome Home|35000000|39|English|-1
+Welcome Home, Roscoe Jenkins|2008|English|USA|35000000
 A Passage to India|1984|English|UK|16000000
 Notes on a Scandal|2006|English|UK|15000000
 Rendition|2007|English|USA|27500000
@@ -1827,7 +1827,7 @@ It's Always Sunny in Philadelphia|-1|English|USA|-1
 A Bridge Too Far|1977|English|USA|26000000
 Red Eye|2005|English|USA|26000000
 Final Destination 2|2003|English|USA|26000000
-"O Brother|26000000|862|English|-1
+O Brother, Where Art Thou?|2000|English|UK|26000000
 Legion|2010|English|USA|26000000
 Pain & Gain|2013|English|USA|26000000
 In Good Company|2004|English|USA|26000000
@@ -1870,7 +1870,7 @@ No Country for Old Men|2007|English|USA|25000000
 Ride Along|2014|English|USA|25000000
 Bridget Jones's Diary|2001|English|UK|26000000
 Chocolat|2000|English|UK|25000000
-"Legally Blonde 2: Red|45000000|297|English|-1
+Legally Blonde 2: Red, White & Blonde|2003|English|USA|45000000
 Parental Guidance|2012|English|USA|25000000
 No Strings Attached|2011|English|USA|25000000
 Tombstone|1993|English|USA|25000000
@@ -1937,7 +1937,7 @@ Punch-Drunk Love|2002|English|USA|25000000
 EuroTrip|2004|English|USA|25000000
 Half Past Dead|2002|English|Germany|13000000
 Unaccompanied Minors|2006|English|USA|26000000
-"Bright Lights|25000000|37|English|-1
+Bright Lights, Big City|1988|English|USA|25000000
 The Adventures of Pinocchio|1996|Italian|UK|25000000
 The Greatest Game Ever Played|2005|English|USA|-1
 The Box|2009|English|USA|16000000
@@ -2013,7 +2013,7 @@ Zack and Miri Make a Porno|2008|English|USA|24000000
 Nurse Betty|2000|English|Germany|24000000
 The Men Who Stare at Goats|2009|English|USA|25000000
 Double Take|2001|English|USA|24000000
-"Girl|24000000|385|English|-1
+Girl, Interrupted|1999|English|USA|24000000
 Win a Date with Tad Hamilton!|2004|English|USA|24000000
 Muppets from Space|1999|English|USA|24000000
 The Wiz|1978|English|USA|24000000
@@ -2081,7 +2081,7 @@ Diary of a Wimpy Kid: Dog Days|2012|English|USA|22000000
 Summer of Sam|1999|English|USA|22000000
 Jay and Silent Bob Strike Back|2001|English|USA|22000000
 The Glass House|2001|English|USA|30000000
-"Hail|22000000|302|English|-1
+Hail, Caesar!|2016|English|UK|22000000
 Josie and the Pussycats|2001|English|Canada|22000000
 Homefront|2013|English|USA|22000000
 The Little Vampire|2000|English|Germany|22000000
@@ -2291,7 +2291,7 @@ Flash of Genius|2008|English|USA|20000000
 I'm Not There.|2007|English|USA|20000000
 The Cold Light of Day|2012|English|USA|20000000
 The Brothers Bloom|2008|English|USA|20000000
-"Synecdoche|21000000|274|English|-1
+Synecdoche, New York|2008|English|USA|21000000
 Princess Mononoke|1997|Japanese|Japan|2400000000
 Bon voyage|2003|French|France|20000000
 Can't Stop the Music|1980|English|USA|20000000
@@ -2339,7 +2339,7 @@ Fight Valley|2016|English|USA|27000000
 The Switch|2010|English|USA|19000000
 Just Married|2003|English|USA|18000000
 The Devil's Double|2011|English|Belgium|15000000
-"Gone|-1|http://www.imdb.com/title/tt1697237/?ref_=fn_tt_tt_1||-1
+Gone, Baby, Gone|-1|English||-1
 Thomas and the Magic Railroad|2000|English|UK|19000000
 The Crazies|2010|English|USA|20000000
 Spirited Away|2001|Japanese|Japan|19000000
@@ -2404,7 +2404,7 @@ Love the Coopers|2015|English|USA|17000000
 Catch That Kid|2004|English|USA|18000000
 Life as a House|2001|English|USA|18000000
 Steve Jobs|2015|English|UK|30000000
-"I Love You|18000000|80|English|-1
+I Love You, Beth Cooper|2009|English|Canada|18000000
 Youth in Revolt|2009|English|USA|18000000
 The Legend of the Lone Ranger|1981|English|USA|18000000
 The Tailor of Panama|2001|English|USA|18000000
@@ -2469,7 +2469,7 @@ A Night at the Roxbury|1998|English|USA|17000000
 Beastly|2011|English|USA|17000000
 The Hills Have Eyes|2006|English|USA|15000000
 Dickie Roberts: Former Child Star|2003|English|USA|17000000
-"McFarland|17000000|83|English|-1
+McFarland, USA|2015|English|USA|17000000
 Lottery Ticket|2010|English|USA|-1
 ATL|2006|English|USA|-1
 Pitch Perfect|2012|English|USA|17000000
@@ -2567,7 +2567,7 @@ Home Alone|1990|English|USA|18000000
 3 Men and a Baby|1987|English|USA|11000000
 Tootsie|1982|English|USA|22000000
 Top Gun|1986|English|USA|15000000
-"Crouching Tiger|15000000|1641|Mandarin|-1
+Crouching Tiger, Hidden Dragon|2000|Mandarin|Taiwan|15000000
 American Beauty|1999|English|USA|15000000
 The King's Speech|2010|English|UK|15000000
 Twins|1988|English|USA|15000000
@@ -2749,7 +2749,7 @@ Our Family Wedding|2010|English|USA|14000000
 Dead Man on Campus|1998|English|USA|14000000
 Tea with Mussolini|1999|English|Italy|12000000
 Thinner|1996|English|USA|8500000
-"New York|14000000|75|English|-1
+New York, New York|1977|English|USA|14000000
 Crooklyn|1994|English|USA|14000000
 I Think I Love My Wife|2007|English|USA|-1
 Jason X|2001|English|USA|11000000
@@ -2785,7 +2785,7 @@ The Border|-1|Polish|Poland|-1
 Downfall|2004|German|Germany|13500000
 The Sea Inside|2004|Spanish|Spain|10000000
 Under the Skin|2013|English|UK|-1
-"Good Morning|13000000|131|English|-1
+Good Morning, Vietnam|1987|English|USA|13000000
 The Last Godfather|2010|English|South Korea|13400000
 Justin Bieber: Never Say Never|2011|English|USA|13000000
 Black Swan|2010|English|USA|13000000
@@ -2793,7 +2793,7 @@ The Godfather: Part II|1974|English|USA|13000000
 Save the Last Dance|2001|English|USA|13000000
 A Nightmare on Elm Street 4: The Dream Master|1988|English|USA|7000000
 Miracles from Heaven|2016|English|USA|13000000
-"Dude|13000000|469|English|-1
+Dude, Where's My Car?|2000|English|USA|13000000
 Young Guns|1988|English|USA|13000000
 St. Vincent|2014|English|USA|13000000
 About Last Night|2014|English|USA|12500000
@@ -2828,7 +2828,7 @@ Light It Up|1999|English|USA|13000000
 Bubble Boy|2001|English|USA|13000000
 Birthday Girl|2001|English|UK|13000000
 21 & Over|2013|English|USA|13000000
-"Paris|13000000|123|French|-1
+Paris, je t'aime|2006|French|France|13000000
 Resurrecting the Champ|2007|English|USA|13000000
 Admission|2013|English|USA|13000000
 The Widow of Saint-Pierre|2000|French|France|100000000
@@ -2956,7 +2956,7 @@ Darling Companion|2012|English|USA|-1
 Trade|2007|English|Germany|12000000
 Fateless|2005|Hungarian|Hungary|2500000000
 Breakfast of Champions|1999|English|USA|12000000
-"A Woman|-1|20|Mandarin|-1
+A Woman, a Gun and a Noodle Shop|2009|Mandarin|China|-1
 Cypher|2002|English|USA|7500000
 City of Life and Death|2009|Mandarin|China|12000000
 Legend of Kung Fu Rabbit|2011|Mandarin|China|-1
@@ -3098,7 +3098,7 @@ The Corruptor|1999|English|USA|30000000
 Mud|2012|English|USA|10000000
 Reno 911!: Miami|2007|English|USA|10000000
 One Direction: This Is Us|2013|English|USA|10000000
-"The Goods: Live Hard|-1|59|English|-1
+The Goods: Live Hard, Sell Hard|2009|English|USA|-1
 Hey Arnold! The Movie|2002|English|USA|3000000
 My Week with Marilyn|2011|English|UK|6400000
 The Matador|2005|English|USA|10000000
@@ -3126,13 +3126,13 @@ The Red Violin|1998|French|Canada|10000000
 The Straight Story|1999|English|France|10000000
 Deuces Wild|2002|English|USA|10000000
 Bad Words|2013|English|USA|10000000
-"Run|-1|http://www.imdb.com/title/tt0425413/?ref_=fn_tt_tt_1|143|-1
+Run, Fatboy, Run|2007|English|UK|-1
 Heartbeeps|1981|English|USA|10000000
 Black or White|2014|English|USA|9000000
 On the Line|2001|English|USA|16000000
 Rescue Dawn|2006|English|USA|10000000
 Danny Collins|2015|English|USA|10000000
-"Jeff|10000000|112|English|-1
+Jeff, Who Lives at Home|2011|English|USA|10000000
 I Am Love|2009|Italian|Italy|10000000
 Atlas Shrugged II: The Strike|2012|English|USA|10000000
 Romeo Is Bleeding|1993|English|UK|11500000
@@ -3160,7 +3160,7 @@ The Brothers Solomon|2007|English|USA|10000000
 My Blueberry Nights|2007|English|Hong Kong|10000000
 Illuminata|1998|English|Spain|-1
 Swept Away|2002|English|UK|10000000
-"War|10000000|112|English|-1
+War, Inc.|2008|English|USA|10000000
 Shaolin Soccer|2001|Cantonese|Hong Kong|10000000
 The Brown Bunny|2003|English|USA|10000000
 The Swindle|1997|French|France|60000000
@@ -3175,7 +3175,7 @@ Edmond|2005|English|USA|10000000
 Welcome to the Rileys|2010|English|UK|-1
 Police Academy: Mission to Moscow|1994|English|USA|6200000
 Blood Done Sign My Name|2010|English|USA|-1
-"Cinco de Mayo|10000000|3|Spanish|-1
+Cinco de Mayo, La Batalla|2013|Spanish|Mexico|10000000
 Elsa & Fred|2014|English|USA|10000000
 An Alan Smithee Film: Burn Hollywood Burn|1997|English|USA|10000000
 The Open Road|2009|English|USA|10000000
@@ -3198,7 +3198,7 @@ It's a Wonderful Afterlife|2010|English|UK|10000000
 The Devil's Tomb|2009|English|USA|10000000
 Partition|2007|English|Canada|10000000
 Good Intentions|2010|English|USA|10000000
-"The Good|-1|http://www.imdb.com/title/tt0901487/?ref_=fn_tt_tt_1|74|-1
+The Good, the Bad, the Weird|2008|Korean|South Korea|10000000
 Nurse 3D|2013|English|USA|10000000
 Gunless|2010|English|Canada|10000000
 Adventureland|2009|English|USA|-1
@@ -3210,7 +3210,7 @@ Plastic|2014|English|UK|10000000
 Amour|2012|French|France|8900000
 Poltergeist III|1988|English|USA|10500000
 Re-Kill|2015|English|USA|9500000
-"It's a Mad|-1|california|desert|dying words|money|race|http://www.imdb.com/title/tt0057193/?ref_=fn_tt_tt_1|-1
+It's a Mad, Mad, Mad, Mad World|1963|English|USA|9400000
 Volver|2006|Spanish|Spain|-1
 Heavy Metal|1981|English|Canada|9300000
 Gentlemen Broncos|2009|English|USA|-1
@@ -3266,7 +3266,7 @@ Red Riding: In the Year of Our Lord 1974|2009|English|UK|-1
 The Girl on the Train|2009|French|France|-1
 Veronika Decides to Die|2009|English|USA|9000000
 Crocodile Dundee|1986|English|Australia|8800000
-"Ultramarines: A Warhammer 40|-1|64|English|-1
+Ultramarines: A Warhammer 40,000 Movie|2010|English|UK|-1
 The I Inside|2004|English|UK|8800000
 Beneath Hill 60|2010|English|Australia|9000000
 Polisse|2011|French|France|-1
@@ -3410,9 +3410,9 @@ Magic Mike|2012|English|USA|7000000
 Darkness Falls|2003|English|USA|11000000
 Live and Let Die|1973|English|UK|7000000
 My Dog Skip|2000|English|USA|5000000
-"Definitely|-1|168|English|-1
+Definitely, Maybe|2008|English|Germany|-1
 Jumping the Broom|2011|English|USA|6600000
-"Good Night|7500000|526|English|-1
+Good Night, and Good Luck.|2005|English|USA|7500000
 Capote|2005|English|Canada|7000000
 Desperado|1995|English|USA|7000000
 Fargo|-1|English|USA|-1
@@ -3484,7 +3484,7 @@ The Chumscrubber|2005|English|USA|6800000
 Shade|2003|English|USA|6800000
 House at the End of the Street|2012|English|Canada|6900000
 Incendies|2010|French|Canada|6800000
-"Remember Me|5000000|21|Italian|-1
+Remember Me, My Love|2003|Italian|Italy|5000000
 Perrier's Bounty|2009|English|Ireland|-1
 Elite Squad|2007|Portuguese|Brazil|4000000
 Annabelle|2014|English|USA|6500000
@@ -3574,7 +3574,7 @@ Snow Flower and the Secret Fan|2011|English|China|6000000
 Come Early Morning|2006|English|USA|6000000
 Lucky Break|2001|English|UK|6000000
 Julia|1977|English|USA|7840000
-"Surfer|6000000|37|English|-1
+Surfer, Dude|2008|English|USA|6000000
 Lake of Fire|2006|English|USA|-1
 11:14|2003|English|USA|6000000
 Men of War|1994|English|USA|8600000
@@ -3641,7 +3641,7 @@ The Robe|1953|English|USA|5000000
 The Return of the Pink Panther|1975|English|UK|5000000
 Freddy's Dead: The Final Nightmare|1991|English|USA|8500000
 Monster|2003|English|USA|4500000
-"20|5000000|108|English|-1
+20,000 Leagues Under the Sea|1954|English|USA|5000000
 Paranormal Activity: The Marked Ones|2014|English|USA|5000000
 The Elephant Man|1980|English|USA|5000000
 Dallas Buyers Club|2013|English|USA|5000000
@@ -3659,7 +3659,7 @@ Mommie Dearest|1981|English|USA|5000000
 Our Idiot Brother|2011|English|USA|5000000
 Race|2016|English|Canada|-1
 The Players Club|1998|English|USA|4500000
-"As Above|5000000|211|English|-1
+As Above, So Below|2014|English|USA|5000000
 Addicted|2014|Spanish|USA|5000000
 Eve's Bayou|1997|English|USA|6000000
 Still Alice|2014|English|USA|5000000
@@ -3718,11 +3718,11 @@ The Oh in Ohio|2006|English|USA|5000000
 Atlas Shrugged: Who Is John Galt?|2014|English|USA|5000000
 Bottle Rocket|1996|English|USA|7000000
 Albino Alligator|1996|English|USA|5000000
-"Gandhi|-1|25|Hindi|-1
+Gandhi, My Father|2007|Hindi|India|-1
 Standard Operating Procedure|2008|English|USA|-1
 Out of the Blue|1980|English|Canada|2200000
 Tucker and Dale vs Evil|2010|English|Canada|-1
-"Lovely|5000000|15|English|-1
+Lovely, Still|2008|English|USA|5000000
 Tycoon|1947|English|USA|3209000
 Desert Blue|1998|English|USA|2000000
 Decoys|2004|English|Canada|5000000
@@ -3866,7 +3866,7 @@ Shooting Fish|1997|English|UK|3000000
 Prison|1987|English|USA|1300000
 Psycho Beach Party|2000|English|Australia|1500000
 The Big Tease|1999|English|UK|4000000
-"Buen Día|4000000|7|German|-1
+Buen Día, Ramón|2013|German|Mexico|4000000
 Trust|2010|English|USA|9500000
 An Everlasting Piece|2000|English|USA|14000000
 Among Giants|1998|English|UK|2500000
@@ -3936,7 +3936,7 @@ The Betrayed|2008|English|USA|3500000
 Taxman|1998|English|USA|1000000
 The Secret|-1|English|UK|-1
 2:13|2009|English|USA|3500000
-"Batman: The Dark Knight Returns|3500000|55|English|-1
+Batman: The Dark Knight Returns, Part 2|2013|English|USA|3500000
 Time to Choose|2015|English|USA|3500000
 In the Name of the King: The Last Job|2014|English|Canada|3500000
 Wicked Blood|2014|English|USA|3500000
@@ -4093,7 +4093,7 @@ Timecrimes|2007|Spanish|Spain|2600000
 Silver Medallist|2009|Mandarin|China|15000000
 Timber Falls|2007|English|USA|2600000
 Singin' in the Rain|1952|English|USA|2540800
-"Fat|2500000|25|English|-1
+Fat, Sick & Nearly Dead|2010|English|Australia|2500000
 A Haunted House|2013|English|USA|2500000
 2016: Obama's America|2012|English|USA|2500000
 That Thing You Do!|1996|English|USA|26000000
@@ -4132,7 +4132,7 @@ This Is England|2006|English|UK|1500000
 Alien Uprising|2012|English|UK|2500000
 Bathing Beauty|1944|English|USA|2361000
 Go for It!|2011|English|USA|2450000
-"Dancer|-1|63|English|-1
+Dancer, Texas Pop. 81|1998|English|USA|-1
 Show Boat|1951|English|USA|2295429
 Redemption Road|2010|English|USA|-1
 The Calling|2014|English|USA|-1
@@ -4194,7 +4194,7 @@ Witchboard|1986|English|UK|2000000
 Strangers with Candy|-1|English|USA|-1
 Shortbus|2006|English|USA|2000000
 Waltz with Bashir|2008|Hebrew|Israel|1500000
-"The Book of Mormon Movie|2000000|30|English|-1
+The Book of Mormon Movie, Volume 1: The Journey|2003|English|USA|2000000
 No End in Sight|2007|English|USA|2000000
 The Diary of a Teenage Girl|2015|English|USA|2000000
 Get Real|-1|English|USA|-1
@@ -4231,7 +4231,7 @@ Freeze Frame|2004|English|UK|2000000
 Grave Encounters|2011|English|Canada|100000
 Stitches|2012|English|Ireland|-1
 Nine Dead|2010|English|USA|2000000
-"To Be Frank|2000000||English|-1
+To Be Frank, Sinatra at 100|2015|English|UK|2000000
 Bananas|1971|English|USA|2000000
 Supercapitalist|2012|English|USA|-1
 Rockaway|2007|English|USA|2000000
@@ -4289,7 +4289,7 @@ Under the Same Moon|2007|Spanish|Mexico|-1
 Conquest of the Planet of the Apes|1972|English|USA|1700000
 In the Bedroom|2001|English|USA|1700000
 I Spit on Your Grave|2010|English|USA|2000000
-"Happy|1700000|122|English|-1
+Happy, Texas|1999|English|USA|1700000
 My Summer of Love|2004|English|UK|1700000
 The Lunchbox|2013|Hindi|India|1000000
 Yes|2004|English|UK|1000000
@@ -4361,7 +4361,7 @@ Girl House|2014|English|Canada|3150000
 The Blue Room|2014|French|France|-1
 House at the End of the Drive|2014|English|USA|1400000
 Batman: The Movie|1966|English|USA|1377800
-"Lock|960000|523|English|-1
+Lock, Stock and Two Smoking Barrels|1998|English|UK|960000
 The Ballad of Gregorio Cortez|1982|English|USA|1250000
 The Streets of San Francisco|-1|English|USA|-1
 The Celebration|1998|Danish|Denmark|1300000
@@ -4386,7 +4386,7 @@ Niagara|1953|English|USA|1250000
 How Green Was My Valley|1941|English|USA|1250000
 The Girlfriend Experience|-1|English|USA|-1
 Da Sweet Blood of Jesus|2014|English|USA|1420000
-"Sex|-1|http://www.imdb.com/title/tt0098724/?ref_=fn_tt_tt_1|95|-1
+Sex, Lies, and Videotape|1989|English|USA|1200000
 Saw|2004|English|USA|1200000
 Super Troopers|2001|English|USA|1200000
 The Algerian|2014|English|USA|1300000
@@ -4398,11 +4398,11 @@ But I'm a Cheerleader|1999|English|USA|1200000
 Home Run|2013|English|USA|1200000
 Reservoir Dogs|1992|English|USA|1200000
 The Blue Bird|1940|English|USA|-1
-"The Good|1200000|780|Italian|-1
+The Good, the Bad and the Ugly|1966|Italian|Italy|1200000
 The Second Mother|2015|Portuguese|Brazil|4000000
 Blue Like Jazz|2012|English|USA|1200000
 Down and Out with the Dolls|2001|English|USA|1200000
-"Pink Ribbons|1200000|10|English|-1
+Pink Ribbons, Inc.|2011|English|Canada|1200000
 Certifiably Jonathan|2007|English|USA|1200000
 Q|2011|French|France|1500000
 The Knife of Don Juan|2013|Spanish|USA|1200000
@@ -4453,7 +4453,7 @@ Shine a Light|2008|English|USA|-1
 The Green Inferno|2013|English|USA|6000000
 Departure|2015|English|UK|1100000
 The Sessions|2012|English|USA|1000000
-"Food|-1|183|English|-1
+Food, Inc.|2008|English|USA|-1
 October Baby|2011|English|USA|-1
 Next Stop Wonderland|1998|English|USA|1000000
 The Skeleton Twins|2014|English|USA|-1
@@ -4533,7 +4533,7 @@ And Then Came Love|2007|English|USA|989000
 Food Chains|2014|English|USA|913000
 On the Waterfront|1954|English|USA|910000
 L!fe Happens|2011|English|USA|930000
-"4 Months|590000|172|Romanian|-1
+4 Months, 3 Weeks and 2 Days|2007|Romanian|Romania|590000
 The Horror Network Vol. 1|2015|English|USA|3000000
 Hard Candy|2005|English|USA|950000
 The Quiet|2005|English|USA|900000
@@ -4545,7 +4545,7 @@ The Hammer|2007|English|USA|850000
 Latter Days|2003|English|USA|850000
 Elza|2011|French|France|900000
 1982|2013|English|USA|1000000
-"For a Good Time|850000|34|English|-1
+For a Good Time, Call...|2012|English|USA|850000
 Celeste & Jesse Forever|2012|English|USA|-1
 Time Changer|2002|English|USA|825000
 London to Brighton|2006|English|UK|500000
@@ -4724,7 +4724,7 @@ Pierrot le Fou|1965|French|France|300000
 Sisters in Law|2005|English|Cameroon|-1
 Ayurveda: Art of Being|2001|English|India|300000
 Nothing But a Man|1964|English|USA|160000
-"First Love|300000|16|English|-1
+First Love, Last Rites|1997|English|USA|300000
 Fighting Tommy Riley|2004|English|USA|200000
 Royal Kill|2009|English|USA|350000
 The Looking Glass|2015|English|USA|-1
@@ -4776,7 +4776,7 @@ Western Religion|2015|English|USA|250000
 Burn|2012|English|USA|225000
 Urbania|2000|English|USA|225000
 The Stewardesses|1969|English|USA|100000
-"The Beast from 20|210000|88|English|-1
+The Beast from 20,000 Fathoms|1953|English|USA|210000
 Mad Max|1979|English|Australia|200000
 Swingers|1996|English|USA|200000
 A Fistful of Dollars|1964|Italian|Italy|200000
@@ -4839,7 +4839,7 @@ Hollywood Shuffle|1987|English|USA|100000
 The Mighty|1998|English|USA|-1
 Penitentiary|1979|English|USA|100000
 The Lost Skeleton of Cadavra|2001|English|USA|40000
-"Dude|20000|4|English|-1
+Dude, Where's My Dog?!|2014|English|USA|20000
 Cheap Thrills|2013|English|USA|200000
 Indie Game: The Movie|2012|English|Canada|100000
 Closure|2007|English|UK|1800000
@@ -4847,9 +4847,9 @@ Open Secret|1948|English|USA|-1
 Echo Dr.|2013|English|USA|100000
 The Night Visitor|1971|English|USA|-1
 The Past is a Grotesque Animal|2014|English|USA|100000
-"Peace|70000|13|English|-1
+Peace, Propaganda & the Promised Land|2004|English|USA|70000
 Pi|1998|English|USA|60000
-"I Love You|-1|15|English|-1
+I Love You, Don't Touch Me!|1997|English|USA|-1
 20 Dates|1998|English|USA|60000
 Queen Crab|2015|English|USA|75000
 Super Size Me|2004|English|USA|65000
@@ -4877,6 +4877,7 @@ Smiling Fish & Goat on Fire|1999|English|USA|40000
 Dawn of the Crescent Moon|2014|English|USA|75000
 Raymond Did It|2011|English|USA|40000
 The Last Waltz|1978|English|USA|-1
+Run, Hide, Die|2012|English|USA|50000
 The Exploding Girl|2009|English|USA|-1
 The Legend of God's Gun|2007|English|USA|30000
 Mutual Appreciation|2005|English|USA|-1
