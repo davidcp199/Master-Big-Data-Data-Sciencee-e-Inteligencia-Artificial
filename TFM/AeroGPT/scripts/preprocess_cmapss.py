@@ -69,7 +69,7 @@ for ds in datasets:
         else:
             print("Todos los sensores tienen variabilidad.")
 
-        # Guardar Excel cleaned (sobrescribe)
-        df.to_excel(file_path, index=False)
-        print(f"Archivo limpio guardado: {file_path}")
-
+        # Guardar Excel cleaned
+        file_path_Cleaned = os.path.join(PROCESSED_PATH, f"{ds}_{split}_Cleaned.xlsx")
+        df.to_excel(file_path_Cleaned, index=False)
+        print(f"Archivo limpio guardado: {file_path_Cleaned}")
