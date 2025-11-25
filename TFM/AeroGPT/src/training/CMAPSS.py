@@ -106,7 +106,7 @@ class GRUModel(nn.Module):
         return out
 
 # ---------------------------
-# 3. Entrenamiento intensivo
+# 3. Entrenamiento
 # ---------------------------
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 FEATURE_COLS = ['setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(1,22)]
