@@ -16,9 +16,9 @@ from torch.autograd import Variable
 # ---------------------------
 #BASE_PATH = "/content/drive/MyDrive/CMAPSS_GRU/"
 BASE_PATH = r"C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS"
-RAW_PATH = os.path.join(BASE_PATH, "raw")
-MODEL_PATH = os.path.join(BASE_PATH, "models")
-FIG_PATH = os.path.join(BASE_PATH, "figures")
+RAW_PATH = os.path.join(BASE_PATH, "raw_5")
+MODEL_PATH = os.path.join(BASE_PATH, "models_5")
+FIG_PATH = os.path.join(BASE_PATH, "figures_5")
 
 os.makedirs(MODEL_PATH, exist_ok=True)
 os.makedirs(FIG_PATH, exist_ok=True)

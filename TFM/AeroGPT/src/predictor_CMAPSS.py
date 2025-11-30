@@ -35,7 +35,7 @@ FEATURE_COLS = ['setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(
 def load_model(base_path, fd_code="FD001", input_dim=24):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    model_path = os.path.join(base_path, "models", f"best_model_{fd_code}.pth")
+    model_path = os.path.join(base_path, "model", f"best_model_{fd_code}.pth")
     scaler_path = os.path.join(base_path, "models", f"scaler_{fd_code}.pkl")
 
     if not os.path.exists(model_path):
